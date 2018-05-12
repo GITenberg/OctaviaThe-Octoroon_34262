@@ -1,0 +1,24 @@
+_repo: OctaviaThe-Octoroon_34262
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lee, J. F.
+    gutenberg_agent_id: '38895'
+    url: http://www.gutenberg.org/2009/agents/38895
+description: ''
+gutenberg_issued: '2011-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Fiction'
+- !lcc 'PS'
+title: Octavia, the Octoroon
+url: http://www.gutenberg.org/ebooks/34262
